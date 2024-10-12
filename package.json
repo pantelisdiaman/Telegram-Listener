@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.5.22"
+  },
+  "scripts": {
+      "start": "node telegram_listener.js"
+  },
+  "type": "module"
+}
